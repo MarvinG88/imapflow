@@ -912,3 +912,15 @@ HISTORY
     So many changes happened since then that I wonder if it remains any
     lines of the original copy_folder.pl in imapsync source code.
 
+# IMAPFlow
+
+A fork of imapsync with transfer size and speed limitations removed.
+
+**Author:** Marvin G. Mazibuko  
+**Company:** YHOsoul (Pty) Ltd  
+**Email:** webmaster@yhosoul.co.za  
+**Website:** https://www.yhosoul.co.za
+
+## Versioning
+
+This project uses semantic versioning. The initial version is tagged as v1.0.0.
